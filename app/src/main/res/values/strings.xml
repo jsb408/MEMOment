@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MEMOment</string>
+
+    <string name="no_moment">작성된 모먼트가 없어요</string>
+    <string name="write_moment">모먼트 작성</string>
+    <string name="delete_moment">모먼트를 삭제하시겠습니까?</string>
+</resources>
