@@ -2,7 +2,7 @@
 
 순간을 기록하는 간단 일기장
 
-- 진행기간 : 2020. 09. 04 ~ 2021. 09. 28
+- 진행기간 : 2020. 09. 04 ~ 2020. 09. 28
 - 사용기술 : Android Studio, Kotlin, Realm, Material Calendar View
 
 <p align="center"><img src="https://user-images.githubusercontent.com/55052074/111783906-1298b300-88fe-11eb-9131-db5784215c38.jpg" width="30%"/></p>
